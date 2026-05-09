@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Database / local state
+memory/
+*.db
+
+# Archives
+*.zip
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Keys & credentials
+*.pem
+
+# Project files
+report.js
+complaint-ai-system.code-workspace
+
+# Docker
+docker-compose.yml
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
