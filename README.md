@@ -245,5 +245,3 @@ python main.py --limit 10 --product "Debt collection"
 
 ---
 
-## 📝 License
-MIT
