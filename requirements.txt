@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+voyageai
+qdrant-client
+httpx
+python-dotenv
